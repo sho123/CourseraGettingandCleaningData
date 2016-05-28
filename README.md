@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Getting and Cleaning Data Course Project
 
 R Script: run_analysis.R
@@ -50,3 +51,6 @@ activity_labels.txt: ids for the 6 different activities
         a. Use melt function to melt dataset (reshape2 package)
         b. Use dcast function to reshape data
 
+=======
+# Coursers-Data-Science-Getting-and-Cleaning-Data
+>>>>>>> b0720e24f45aa9a6aa7832666e87b9dcea9c9861
